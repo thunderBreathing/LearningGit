@@ -1,8 +1,8 @@
-Ammu        :   Ammu
-Jannat      :   Wife
-Mehran      :   Brother
-Mashruq     :   Brother
-Emon        :   Childhood friend
-Arafat      :   Roommate
-Shojeeb     :   Roommate
-Surjo       :   Childhood friend
+Ammu
+Jannat
+Mehran
+Mashruq
+Emon
+Arafat
+Shojeeb
+Surjo
