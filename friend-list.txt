@@ -1,8 +1,17 @@
-Ammu
-Jannat
-Mehran
-Mashruq
-Emon
-Arafat
-Shojeeb
-Surjo
+==============
+||  Ammu    ||
+==============
+||  Jannat  ||
+==============
+||  Mehran  ||
+==============
+||  Mashruq ||
+==============
+||  Emon    ||
+==============
+||  Arafat  ||
+==============
+||  Shojeeb ||
+==============
+||  Surjo   ||
+==============
